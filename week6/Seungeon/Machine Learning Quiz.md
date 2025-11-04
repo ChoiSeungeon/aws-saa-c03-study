@@ -1,8 +1,6 @@
 # Machine Learning Quiz
 ---
 
-# Machine Learning Quiz
-
 ### Q1
 
 당신은 딥러닝을 사용하여 텍스트를 실제 같은 음성으로 변환하기 위해 Amazon Transcribe를 사용해야 한다.
