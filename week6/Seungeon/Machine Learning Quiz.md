@@ -1,8 +1,4 @@
-# Machine Learning Quiz  Machine Learning Quiz
-
-강의명: AWS
-작성 날짜: 2025년 11월 4일
-
+# Machine Learning Quiz
 ---
 
 # Machine Learning Quiz
